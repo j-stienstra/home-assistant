@@ -857,6 +857,9 @@ iperf3==0.1.11
 # homeassistant.components.gogogate2
 ismartgate==4.0.0
 
+# homeassistant.components.jellyfin
+jellyfin-apiclient-python==1.6.1
+
 # homeassistant.components.rest
 jsonpath==0.82
 
